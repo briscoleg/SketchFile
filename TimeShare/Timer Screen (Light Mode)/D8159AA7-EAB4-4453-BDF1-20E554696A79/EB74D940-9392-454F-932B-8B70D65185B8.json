@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "80DC2AF8-4748-41D7-BC37-AFED6CE868CA",
+  "do_objectID": "EB74D940-9392-454F-932B-8B70D65185B8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,71 +12,55 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "A38C5847-89EB-43F3-9FFF-5D3BB6F1EFF8",
+    "maintainScrollPosition": false
+  },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "constrainProportions": false,
+    "height": 63,
+    "width": 412,
+    "x": 1,
+    "y": 626
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Member Session Goal",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "artboard",
-      "id": "FCC88524-D0F8-41A7-B2F6-2899FB87DBEB"
+      "_class": "overrideValue",
+      "overrideName": "0E81FDBB-3826-469B-8BAB-FEBA70896567_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4fcf9131db4e5d48a9209b5b4968b357d687fa1e.png",
+        "_ref_class": "MSImageData"
+      }
     },
     {
-      "class": "artboard",
-      "id": "3CC4199A-F447-409A-978F-E6842CDDB773"
+      "_class": "overrideValue",
+      "overrideName": "6B0A490B-0576-49AF-B2B2-72672AE19F82_stringValue",
+      "value": "Liam"
     },
     {
-      "class": "artboard",
-      "id": "265BBFDB-19E2-4490-A2BF-3C50C28D0F53"
-    },
-    {
-      "class": "artboard",
-      "id": "B3F93E97-CC61-4302-B52F-7CBDCE4667F3"
-    },
-    {
-      "class": "text",
-      "id": "553BEB79-5CE6-440B-914F-A0A984C71777"
-    },
-    {
-      "class": "artboard",
-      "id": "D8159AA7-EAB4-4453-BDF1-20E554696A79"
-    },
-    {
-      "class": "artboard",
-      "id": "A38C5847-89EB-43F3-9FFF-5D3BB6F1EFF8"
-    },
-    {
-      "class": "text",
-      "id": "24FAF668-522A-4F82-A2E7-0F2A4BE83EBD"
+      "_class": "overrideValue",
+      "overrideName": "6273DAEF-C6F1-4DB0-A432-78C01108EDE7_stringValue",
+      "value": "Wrap up biochem ch 15"
     }
   ],
-  "name": "Timer Screen (Light Mode)",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -112,7 +96,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "605DB18D-C936-4688-B860-1D996438FF1F",
+    "do_objectID": "BA81C10D-B80B-4A6D-88AD-23BE11D1BA11",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -124,10 +108,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "8B5C1367-AC07-4837-AE2A-B2E4D871A852",
+  "verticalSpacing": 0
 }

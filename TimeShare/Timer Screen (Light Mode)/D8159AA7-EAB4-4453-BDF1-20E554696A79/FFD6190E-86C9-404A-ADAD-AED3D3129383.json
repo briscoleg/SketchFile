@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "80DC2AF8-4748-41D7-BC37-AFED6CE868CA",
+  "do_objectID": "FFD6190E-86C9-404A-ADAD-AED3D3129383",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,69 +14,28 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "constrainProportions": false,
+    "height": 63,
+    "width": 55,
+    "x": 9,
+    "y": 531
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "FCC88524-D0F8-41A7-B2F6-2899FB87DBEB"
-    },
-    {
-      "class": "artboard",
-      "id": "3CC4199A-F447-409A-978F-E6842CDDB773"
-    },
-    {
-      "class": "artboard",
-      "id": "265BBFDB-19E2-4490-A2BF-3C50C28D0F53"
-    },
-    {
-      "class": "artboard",
-      "id": "B3F93E97-CC61-4302-B52F-7CBDCE4667F3"
-    },
-    {
-      "class": "text",
-      "id": "553BEB79-5CE6-440B-914F-A0A984C71777"
-    },
-    {
-      "class": "artboard",
-      "id": "D8159AA7-EAB4-4453-BDF1-20E554696A79"
-    },
-    {
-      "class": "artboard",
-      "id": "A38C5847-89EB-43F3-9FFF-5D3BB6F1EFF8"
-    },
-    {
-      "class": "text",
-      "id": "24FAF668-522A-4F82-A2E7-0F2A4BE83EBD"
-    }
+  "name": "Avatar Photo",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Timer Screen (Light Mode)",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -112,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "605DB18D-C936-4688-B860-1D996438FF1F",
+    "do_objectID": "0F497D47-C046-4322-B58C-02B815267C7D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -124,10 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "22811470-1BFE-4B59-B6D0-B73B033BBBDB",
+  "verticalSpacing": 0
 }

@@ -1,6 +1,5 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -10,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FC80F47E-0EB9-49FA-9ECB-2B2CCA5EEFD4",
+  "do_objectID": "A38C5847-89EB-43F3-9FFF-5D3BB6F1EFF8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,16 +22,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 144,
-    "width": 180,
-    "x": 2433,
-    "y": -735
+    "height": 896,
+    "width": 414,
+    "x": 1590,
+    "y": 1277
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -41,7 +40,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -49,36 +47,93 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "112B8039-8B2B-4FED-91A6-043F8AA828A0"
+      "class": "symbolInstance",
+      "id": "64CDE294-A88D-4458-B750-92AD582CAD5F"
     },
     {
-      "class": "shapeGroup",
-      "id": "54B60E29-73AB-4FD0-926F-023E9BAE240F"
+      "class": "symbolInstance",
+      "id": "06AC7F65-B51E-4650-8BAE-E2B70EA3757C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B0EA67C-0926-4A84-A5F1-C371F525F995"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "774AD514-F0C2-446B-975F-B674B2070BD7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E02C9E7F-D1A1-44C1-8D33-AF6C4FE97A2D"
     },
     {
       "class": "text",
-      "id": "91ABAD08-4377-45E3-8B5A-59E8379567B8"
-    }
-  ],
-  "name": "Settings Button 2",
-  "nameIsFixed": false,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "54B60E29-73AB-4FD0-926F-023E9BAE240F_layerStyle"
+      "id": "82F2B1BE-6325-4642-9599-F95CBC503D57"
     },
     {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "91ABAD08-4377-45E3-8B5A-59E8379567B8_stringValue"
+      "class": "symbolInstance",
+      "id": "CBCD2F12-2FCB-416D-9147-DBDE3DFEC0B7"
+    },
+    {
+      "class": "rectangle",
+      "id": "991E4613-9DBE-4EC2-A5F7-60AEC383097E"
+    },
+    {
+      "class": "text",
+      "id": "43F0ACAD-83FE-4593-9376-EF9EC053EE07"
+    },
+    {
+      "class": "text",
+      "id": "17BE3F68-034A-473D-8AB6-66E2DD149D79"
+    },
+    {
+      "class": "text",
+      "id": "C9FDE80E-E764-48B8-8675-A9690A5A12AC"
+    },
+    {
+      "class": "text",
+      "id": "7D8D4C09-5A39-489D-BA98-B9FCFDE4FA5C"
+    },
+    {
+      "class": "text",
+      "id": "38A51903-FB0B-45CA-AC83-819CA3AF3947"
+    },
+    {
+      "class": "text",
+      "id": "A8D8BE72-FD94-4EA5-BF3C-4F9E3C9E8C3A"
+    },
+    {
+      "class": "text",
+      "id": "5AC9DF4C-1610-416E-AF7B-E883A636999C"
+    },
+    {
+      "class": "text",
+      "id": "B2BB5A51-DD4E-4593-AC3F-9531C6706798"
+    },
+    {
+      "class": "text",
+      "id": "391DB749-2698-413D-9FE8-A8D8D5DD6795"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FAD473F0-5A0D-4A7E-B198-66342CAB27D3"
+    },
+    {
+      "class": "text",
+      "id": "D71DF43A-840D-468C-AC3A-F50787EF23B9"
     }
   ],
+  "name": "Ranking Screen Details",
+  "nameIsFixed": true,
   "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 896,
+    "name": "iPhone 11",
+    "offersLandscapeVariant": 1,
+    "width": 414
   },
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -119,7 +174,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7BE02AC3-C41E-4B94-8C1D-9ECF3B831F1C",
+    "do_objectID": "EF04EC36-2087-4BBF-9D76-DD74F424E776",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -131,7 +186,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FF9D28DA-CB15-4472-B65E-A3CC3E0F02F4",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

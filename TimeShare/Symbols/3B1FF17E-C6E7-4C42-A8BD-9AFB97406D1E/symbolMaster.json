@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FC80F47E-0EB9-49FA-9ECB-2B2CCA5EEFD4",
+  "do_objectID": "3B1FF17E-C6E7-4C42-A8BD-9AFB97406D1E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,16 +23,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 144,
-    "width": 180,
-    "x": 2433,
+    "height": 77,
+    "width": 414,
+    "x": 2713,
     "y": -735
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -52,30 +52,22 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "112B8039-8B2B-4FED-91A6-043F8AA828A0"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "54B60E29-73AB-4FD0-926F-023E9BAE240F"
-    },
-    {
-      "class": "text",
-      "id": "91ABAD08-4377-45E3-8B5A-59E8379567B8"
+      "class": "group",
+      "id": "44B7134A-B605-42A0-A56B-3150C2B2E31E"
     }
   ],
-  "name": "Settings Button 2",
+  "name": "Ranking Stats",
   "nameIsFixed": false,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "54B60E29-73AB-4FD0-926F-023E9BAE240F_layerStyle"
+      "overrideName": "00EA3EBA-B958-410E-8DDF-5D5E6C74AE4A_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "91ABAD08-4377-45E3-8B5A-59E8379567B8_stringValue"
+      "overrideName": "6D344433-2A4B-45BD-85BF-036E356BD2F5_symbolID"
     }
   ],
   "presetDictionary": {
@@ -119,7 +111,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7BE02AC3-C41E-4B94-8C1D-9ECF3B831F1C",
+    "do_objectID": "C6CF760E-BFC2-4A0D-9940-46C3F50F591E",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -131,7 +123,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FF9D28DA-CB15-4472-B65E-A3CC3E0F02F4",
+  "symbolID": "B383D222-DC52-44C8-B1E8-48E0D49CFFED",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -118,6 +118,14 @@
     {
       "class": "symbolMaster",
       "id": "FC80F47E-0EB9-49FA-9ECB-2B2CCA5EEFD4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "15671BB0-7759-43F9-BE60-E37F5C1343CE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3B1FF17E-C6E7-4C42-A8BD-9AFB97406D1E"
     }
   ],
   "name": "Symbols",

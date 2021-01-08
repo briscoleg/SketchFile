@@ -9,35 +9,35 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3058823529411765,
-            "green": 0.1529411764705882,
-            "red": 0.0784313725490196
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Regular",
-              "size": 15
+              "name": "Helvetica",
+              "size": 30
             }
           },
-          "kerning": 0.1949999960405486,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "alignment": 2,
+            "maximumLineHeight": 25,
+            "minimumLineHeight": 25
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 31,
+        "length": 22,
         "location": 0
       }
     ],
-    "string": "WHAT EVERY ONE IS WORKING ON..."
+    "string": "Lifetime Hours Studing"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1D4F371A-C2B8-4CB8-9CFC-5602FFBF6730",
+  "do_objectID": "82F2B1BE-6325-4642-9599-F95CBC503D57",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,23 +51,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 249,
-    "x": 58,
-    "y": 580
+    "height": 77,
+    "width": 329,
+    "x": 0,
+    "y": 291
   },
-  "glyphBounds": "{{0, 3}, {246, 12}}",
+  "glyphBounds": "{{15, -2}, {300, 30}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "WHAT EVERY ONE IS WO",
+  "name": "Lifetime Hours Studi",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -105,9 +105,61 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E20D3B3E-0682-4CC0-AA9E-E3741AAA819A",
+    "do_objectID": "15E4093C-D102-42A1-AE34-B7798FB55B22",
     "endMarkerType": 0,
     "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.403921568627451,
+          "green": 0.2823529411764706,
+          "red": 0.2235294117647059
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
     ],
     "innerShadows": [
     ],
@@ -121,28 +173,28 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3058823529411765,
-          "green": 0.1529411764705882,
-          "red": 0.0784313725490196
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProDisplay-Regular",
-            "size": 15
+            "name": "Helvetica",
+            "size": 30
           }
         },
-        "kerning": 0.1949999960405486,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "alignment": 2,
+          "maximumLineHeight": 25,
+          "minimumLineHeight": 25
         },
         "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
-    "windingRule": 1
+    "windingRule": 0
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }
