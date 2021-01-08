@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "17EBE83C-57CC-4B0B-B741-552B86CF9AB8",
+  "do_objectID": "503C0345-8393-49A0-9571-9AA088B98D8F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 209,
-    "x": 102,
-    "y": 483
+    "height": 63,
+    "width": 390,
+    "x": 2,
+    "y": 805
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Complete Button",
-  "nameIsFixed": true,
+  "name": "Member Session Goal",
+  "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "48C2B4E4-B29B-4288-94A8-AC38734FE48B_stringValue",
-      "value": "Complete"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -76,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DDD331E9-D0AE-4647-B862-CCAEC529AA03",
+    "do_objectID": "495D0A48-4403-4E91-8963-0814DBD36AD8",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "44B5B1B1-3EDF-40E4-B7BC-E159A5C607C9",
+  "symbolID": "8B5C1367-AC07-4837-AE2A-B2E4D871A852",
   "verticalSpacing": 0
 }

@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "17EBE83C-57CC-4B0B-B741-552B86CF9AB8",
+  "do_objectID": "42777268-3D0A-48C9-B562-A0DC732DE070",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,32 +15,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 209,
-    "x": 102,
-    "y": 483
+    "height": 21,
+    "width": 73,
+    "x": 61,
+    "y": 528
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Complete Button",
-  "nameIsFixed": true,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "48C2B4E4-B29B-4288-94A8-AC38734FE48B_stringValue",
-      "value": "Complete"
+      "class": "text",
+      "id": "A97F81DE-4B11-4132-B9F4-BB1E46A4B4FB"
     }
   ],
+  "name": "Friends Button",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DDD331E9-D0AE-4647-B862-CCAEC529AA03",
+    "do_objectID": "D04F727B-29FC-4A85-9D2B-824740DE10F1",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,7 +88,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "44B5B1B1-3EDF-40E4-B7BC-E159A5C607C9",
-  "verticalSpacing": 0
+  }
 }

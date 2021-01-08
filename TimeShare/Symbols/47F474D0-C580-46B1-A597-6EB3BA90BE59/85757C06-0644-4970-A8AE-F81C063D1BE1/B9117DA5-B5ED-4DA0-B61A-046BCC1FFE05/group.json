@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "17EBE83C-57CC-4B0B-B741-552B86CF9AB8",
+  "do_objectID": "B9117DA5-B5ED-4DA0-B61A-046BCC1FFE05",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,32 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 209,
-    "x": 102,
-    "y": 483
+    "height": 16,
+    "width": 10,
+    "x": 358,
+    "y": 21
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Complete Button",
-  "nameIsFixed": true,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "48C2B4E4-B29B-4288-94A8-AC38734FE48B_stringValue",
-      "value": "Complete"
+      "class": "shapePath",
+      "id": "12DAF0B3-DA18-4467-87A4-E9602C2E1B7B"
+    },
+    {
+      "class": "shapePath",
+      "id": "3B147A07-28E6-4050-A4DD-11632699FE8D"
     }
   ],
+  "name": "Arrow",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DDD331E9-D0AE-4647-B862-CCAEC529AA03",
+    "do_objectID": "36246D7E-BE72-4559-984B-40EC336D2C6C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,7 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "44B5B1B1-3EDF-40E4-B7BC-E159A5C607C9",
-  "verticalSpacing": 0
+  }
 }

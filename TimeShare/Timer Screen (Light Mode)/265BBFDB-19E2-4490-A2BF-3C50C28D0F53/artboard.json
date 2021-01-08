@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B3F93E97-CC61-4302-B52F-7CBDCE4667F3",
+  "do_objectID": "265BBFDB-19E2-4490-A2BF-3C50C28D0F53",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -33,13 +33,13 @@
     "constrainProportions": false,
     "height": 844,
     "width": 390,
-    "x": 1122,
+    "x": 3062,
     "y": 84
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -60,66 +60,50 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "52DFA7C5-C7DC-4DBF-AC70-FB677169CB96"
+      "id": "F2F544DC-E02E-4D83-B9EB-98B67B8DED79"
     },
     {
       "class": "symbolInstance",
-      "id": "95E4216B-68E9-41EC-AF47-94717FA1F142"
-    },
-    {
-      "class": "group",
-      "id": "E192FB0B-4365-471A-9C5F-0F370203F528"
+      "id": "25FE7FD6-D58A-4011-9957-FC44F92E1FDA"
     },
     {
       "class": "symbolInstance",
-      "id": "1A9D0C26-86AE-47CE-BBEA-E457708754B5"
+      "id": "D1FDEFB7-7C49-45A9-AE23-639272B34315"
     },
     {
       "class": "symbolInstance",
-      "id": "D690EB5B-72C7-48F3-8EDA-D3413F5E22C7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E3A6EB71-1597-4941-BEDC-696807E2A85C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "41E39B50-7CF9-4F09-8171-059BB1980E4A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D7B64637-1FD3-43FF-83B9-9B3AA0951546"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "93765A0C-01DE-4217-841D-5C14E6456E1E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "82B6B90A-D9E5-4343-8B2D-5C869E3E597C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "70CEF2D6-1782-4930-82BA-E42E49DDFC20"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "59901BC3-B419-4002-A955-634BF52B9FE4"
+      "id": "9CB5E128-A95E-4345-B9B4-1F29DCDD16EE"
     },
     {
       "class": "text",
-      "id": "604AA8F6-C87F-467E-9B12-FFE177A3097C"
+      "id": "0671D449-9D01-4441-8124-5EE01472E510"
+    },
+    {
+      "class": "group",
+      "id": "BAA7DF51-D605-4AF3-9868-A00AB0127E68"
+    },
+    {
+      "class": "group",
+      "id": "729259AD-04BA-4C5C-9408-70DC00D8F45B"
     },
     {
       "class": "symbolInstance",
-      "id": "D2DD0F68-607B-45F1-9CDA-BF76467B6595"
+      "id": "F5C51DEB-A7A7-4150-835A-4753266FA86B"
     },
     {
       "class": "symbolInstance",
-      "id": "BD4137C1-EE29-48F7-A920-3E781A517F5B"
+      "id": "ED1BFD35-59D8-4856-ACD9-07DE2BBE2BA0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7412B729-178A-4A3D-B6DB-9BADC96875D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50BD187B-6EC3-409B-98D5-5B708D2A5950"
     }
   ],
-  "name": "Home Screen",
+  "name": "Settings Screen",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -167,7 +151,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B18C7B82-F525-4593-AF99-979CA7DA8151",
+    "do_objectID": "03FE0B34-BE7F-4FF6-999C-F666D3D5987F",
     "endMarkerType": 0,
     "fills": [
     ],

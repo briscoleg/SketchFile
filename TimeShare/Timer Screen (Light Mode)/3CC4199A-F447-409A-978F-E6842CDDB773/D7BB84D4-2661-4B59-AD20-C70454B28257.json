@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "17EBE83C-57CC-4B0B-B741-552B86CF9AB8",
+  "do_objectID": "D7BB84D4-2661-4B59-AD20-C70454B28257",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 209,
-    "x": 102,
-    "y": 483
+    "height": 57,
+    "width": 390,
+    "x": 0,
+    "y": 787
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -27,15 +27,10 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Complete Button",
-  "nameIsFixed": true,
+  "layerListExpandedType": 2,
+  "name": "Tab Bar",
+  "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "48C2B4E4-B29B-4288-94A8-AC38734FE48B_stringValue",
-      "value": "Complete"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -76,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DDD331E9-D0AE-4647-B862-CCAEC529AA03",
+    "do_objectID": "B226D729-B2B1-4DEC-A64C-2521AD62B9B2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "44B5B1B1-3EDF-40E4-B7BC-E159A5C607C9",
+  "symbolID": "2B6E94D0-A63F-4C90-B84B-38D7FEDF57C8",
   "verticalSpacing": 0
 }
