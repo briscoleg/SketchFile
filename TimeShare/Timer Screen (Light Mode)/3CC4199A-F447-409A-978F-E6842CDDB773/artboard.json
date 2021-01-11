@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -87,10 +87,6 @@
       "id": "42777268-3D0A-48C9-B562-A0DC732DE070"
     },
     {
-      "class": "group",
-      "id": "5A840AF3-D642-4119-918C-F8B9007AD2A6"
-    },
-    {
       "class": "symbolInstance",
       "id": "467DD14A-2BFF-421B-8112-BEADFAB265CF"
     },
@@ -105,6 +101,10 @@
     {
       "class": "symbolInstance",
       "id": "211CB4B9-F18C-4968-894A-95A3FA295518"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "911E0509-63D0-44C2-9CBD-2E223CE4C738"
     }
   ],
   "name": "Settings Screen",

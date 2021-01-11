@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -83,10 +83,6 @@
       "id": "BAA7DF51-D605-4AF3-9868-A00AB0127E68"
     },
     {
-      "class": "group",
-      "id": "729259AD-04BA-4C5C-9408-70DC00D8F45B"
-    },
-    {
       "class": "symbolInstance",
       "id": "F5C51DEB-A7A7-4150-835A-4753266FA86B"
     },
@@ -101,9 +97,13 @@
     {
       "class": "symbolInstance",
       "id": "50BD187B-6EC3-409B-98D5-5B708D2A5950"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "734F09E5-8AFB-4A48-AD3E-5A3356C4FFA4"
     }
   ],
-  "name": "Settings Screen",
+  "name": "Settings Screen 2",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

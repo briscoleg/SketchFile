@@ -1,0 +1,123 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7C01F224-3A5D-4F7D-AE53-E394F26F7807",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 217,
+    "width": 375,
+    "x": 3380,
+    "y": -223
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI Controls / Pickers / Text_scrolled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E0835FE2-D8B8-4DB0-A974-DA6194DAD177_stringValue",
+      "value": "Before Breakfast"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2B900C70-527B-491F-B313-39FC8451B38F_stringValue",
+      "value": "Snack"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DCA37AAA-54CE-4093-A83D-AF81744EE73A_stringValue",
+      "value": "After Breakfast"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4565E166-BFE6-43B0-A4B4-C3BEFA039C68_stringValue",
+      "value": "Before Lunch"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1C4B64D7-599F-4D5C-8C23-ED2E194C41C8_stringValue",
+      "value": "After lunch"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C0A5EB63-FCEF-479A-983E-E1CA51F1FF24_stringValue",
+      "value": "Before Dinner"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "33B5F35F-96F2-4F55-BB1D-EF8A1004503C_stringValue",
+      "value": "After Dinner"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "824A9651-DA7C-4E57-AF5C-EEA4F784999B",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0ED3F7A5-F217-44EF-8303-0E1C2D3482BB",
+  "verticalSpacing": 0
+}

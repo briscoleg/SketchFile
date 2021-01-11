@@ -12,6 +12,12 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "D8A3A025-DEF0-4571-9B20-790B916B7BA4",
+    "maintainScrollPosition": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -28,8 +34,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Settings Button",
-  "nameIsFixed": false,
+  "name": "Timezone Button",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

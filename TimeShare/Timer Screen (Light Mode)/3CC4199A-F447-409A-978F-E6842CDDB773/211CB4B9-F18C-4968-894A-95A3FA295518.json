@@ -28,8 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Settings Button",
-  "nameIsFixed": false,
+  "name": "About Button",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

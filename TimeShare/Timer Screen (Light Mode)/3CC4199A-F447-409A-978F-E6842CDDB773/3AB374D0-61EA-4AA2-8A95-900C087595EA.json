@@ -12,6 +12,12 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "AD17E0BA-511B-4201-BBA3-9F04F0A74552",
+    "maintainScrollPosition": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -28,8 +34,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Settings Button",
-  "nameIsFixed": false,
+  "name": "Friends Button",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
