@@ -41,10 +41,6 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "FCC88524-D0F8-41A7-B2F6-2899FB87DBEB"
-    },
-    {
-      "class": "artboard",
       "id": "3CC4199A-F447-409A-978F-E6842CDDB773"
     },
     {
@@ -53,7 +49,19 @@
     },
     {
       "class": "artboard",
-      "id": "B3F93E97-CC61-4302-B52F-7CBDCE4667F3"
+      "id": "83473F55-1F4C-448C-8E4F-3061D3948E38"
+    },
+    {
+      "class": "artboard",
+      "id": "EF08AC38-FADB-4586-9516-4324933F978A"
+    },
+    {
+      "class": "artboard",
+      "id": "407E1A8D-0B4E-4919-821F-058F30FA675F"
+    },
+    {
+      "class": "artboard",
+      "id": "B00C5F76-B590-4043-9B8A-9E5681D67E5D"
     },
     {
       "class": "text",
@@ -61,15 +69,11 @@
     },
     {
       "class": "artboard",
-      "id": "D8159AA7-EAB4-4453-BDF1-20E554696A79"
+      "id": "F9B136FB-E4E7-4C1A-A9BD-E20FE624DE5B"
     },
     {
       "class": "artboard",
-      "id": "A38C5847-89EB-43F3-9FFF-5D3BB6F1EFF8"
-    },
-    {
-      "class": "text",
-      "id": "24FAF668-522A-4F82-A2E7-0F2A4BE83EBD"
+      "id": "9BDAFE5E-5769-450D-B59F-72F3591FC68D"
     }
   ],
   "name": "Timer Screen (Light Mode)",

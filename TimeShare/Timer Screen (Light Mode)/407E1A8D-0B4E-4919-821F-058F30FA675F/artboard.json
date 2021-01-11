@@ -1,0 +1,196 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "407E1A8D-0B4E-4919-821F-058F30FA675F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 844,
+    "width": 390,
+    "x": 1729,
+    "y": 1427
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E388705B-A17F-451C-AB97-20C4D333F8BF"
+    },
+    {
+      "class": "rectangle",
+      "id": "8F3C81BE-26F6-476D-AC45-514022AACD44"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0A25D98-0FED-40DF-AAD6-6504711900C6"
+    },
+    {
+      "class": "text",
+      "id": "605CE9AE-66D7-4602-B771-31CF333A499A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "560A349E-5565-4785-B6F8-AC4176E0AA08"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D4F8EB0-0E85-4126-9A27-5353AA75AD87"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B7790480-5744-4BCF-A07A-10CFB506C69E"
+    },
+    {
+      "class": "text",
+      "id": "BC1CFAE4-3AC5-4B7C-84BE-C3833B80BA4A"
+    },
+    {
+      "class": "text",
+      "id": "FAC91D03-5621-4EFF-911F-D4BBE37C6417"
+    },
+    {
+      "class": "text",
+      "id": "9A5BA989-CE64-4CF2-85D3-326C32E406E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "114F18A8-353C-4C90-9152-474BF0A5B7CE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AD55A84C-B5EC-4649-9479-792CD8B4C44B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B13EA41-FDC2-4CCA-8A8C-7DE72E97B2FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C1C9F47-F8A5-4D8E-87C6-EF277E78A066"
+    },
+    {
+      "class": "group",
+      "id": "CD77B709-2C44-4681-8EBD-3DB9BD6B7B29"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C39CD266-02B0-4B42-AC0F-9B588E3FC15D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB02290E-0DE5-46C7-9449-75B6251F4BAC"
+    }
+  ],
+  "name": "Join Room",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 844,
+    "name": "iPhone 12",
+    "offersLandscapeVariant": 1,
+    "width": 390
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "3D7FC83B-7305-4F18-9CBF-778ED996033A",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
