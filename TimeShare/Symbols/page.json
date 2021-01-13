@@ -198,6 +198,30 @@
     {
       "class": "symbolMaster",
       "id": "682A56E8-C6C0-4442-878C-C0AC1102B2E1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E4BBB7CF-F909-4A18-8132-F5CDA1F5317F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EA50005F-ACEC-4FEB-B0E8-FD3F902D21B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E81D98F4-1D8C-4C5C-B748-BEBA560289BC"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "04DBAC72-0BA6-4B57-93E8-1FBF49515032"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D6139E8F-0583-4A92-985C-CD37BE98BEDA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "63C2C9BF-9C54-4620-ABD0-003CFD42C326"
     }
   ],
   "name": "Symbols",
